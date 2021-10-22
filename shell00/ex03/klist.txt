@@ -1,0 +1,6 @@
+Credentials cache: API:93AF7999-BC25-4D82-8A7C-6D5BA40C264E
+        Principal: apaula-r@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  3 12:48:26 2021  Aug  3 22:48:26 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Aug  3 12:48:28 2021  Aug  3 22:48:26 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
